@@ -1,0 +1,26 @@
+nav li
+{
+  display: inline;
+  margin: 0 10px 0 10px;
+}
+
+nav
+{
+  border: 1px solid red;
+}
+
+main
+{
+  border: 2px dashed green;
+}
+
+main article
+{
+  border: 1px solid blue;
+  margin: 10px 0 10px 0;
+}
+
+header
+{
+  border: 1px solid black;
+}
